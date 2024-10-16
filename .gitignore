@@ -171,3 +171,9 @@ cython_debug/
 #.idea/
 
 logs/
+
+./profiles.yml
+/profiles.yml
+profiles.yml
+adventure_works/profiles.yml
+adventure_works/profiles.yml
